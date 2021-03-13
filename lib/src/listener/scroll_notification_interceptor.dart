@@ -1,3 +1,5 @@
+// @dart=2.9
+
 import 'package:flutter/widgets.dart';
 
 /// 滚动通知拦截器(用于拦截其他UI组件的滑动事件)
